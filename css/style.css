@@ -1,3 +1,9 @@
 .colorist {
 color: #000;
 }
+.main,
+.head,
+.footer {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}       
