@@ -70,7 +70,7 @@ body {
         font-style: normal;
         font-weight: 900;
         font-size: 44px;
-        line-height: calc(60/44);
+        line-height: calc(60 / 44);
         text-align: center;
         letter-spacing: 0.06em;
         text-transform: uppercase;
@@ -79,7 +79,7 @@ body {
 .hero-btn {
         font-weight: 700;
         font-size: 16px;
-        line-height: calc(30/16);
+        line-height: calc(30 / 16);
         display: flex;
         align-items: center;
         text-align: center;
@@ -95,16 +95,14 @@ body {
 .benefits-title {
         font-weight: 700;
         font-size: 14px;
-        line-height: calc(16/14);
+        line-height: calc(16 / 14);
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: var(--color-title);
 }
 .benefits-text {
-        font-style: normal;
-        font-weight: 400;
         font-size: 14px;
-        line-height: calc(24/14);
+        line-height: calc(24 / 14);
         letter-spacing: 0.03em;
         color: var(--color-text);
 }
@@ -112,7 +110,7 @@ body {
 .title-second-ind {
         font-weight: 700;
         font-size: 36px;
-        line-height: calc(42/36);
+        line-height: calc(42 / 36);
         text-align: center;
         letter-spacing: 0.03em;
         color: var(--color-title);
@@ -121,7 +119,7 @@ body {
 .team-item-title,
 .team-item-text {
         font-size: 16px;
-        line-height: calc(19/16);
+        line-height: calc(19 / 16);
         text-align: center;
         letter-spacing: 0.03em;
 }
@@ -137,7 +135,7 @@ body {
 .portfolio-btn {
         font-weight: 500;
         font-size: 16px;
-        line-height: calc(26/16);
+        line-height: calc(26 / 16);
         text-align: center;
         letter-spacing: 0.03em;
         color: #212121;
@@ -150,14 +148,13 @@ body {
 .portfolio-title {
         font-weight: 700;
         font-size: 18px;
-        line-height: calc(36/18);
+        line-height: calc(36 / 18);
         letter-spacing: 0.06em;
         color: var(--color-title);
 }
 .portfolio-text {
-        font-weight: 400;
         font-size: 16px;
-        line-height: calc(30/16);
+        line-height: calc(30 / 16);
         letter-spacing: 0.03em;
         color: var(--color-text);
 }
@@ -182,7 +179,7 @@ body {
 .footer-mail {
     font-weight: 400;
     font-size: 14px;
-    line-height: calc(24/14);
+    line-height: calc(24 / 14);
     letter-spacing: 0.03em;
 }
 
